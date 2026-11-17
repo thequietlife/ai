@@ -7,4 +7,4 @@
 field notes:
 
 
-  * [setting up local ai](https://github.com/thequietlife/cybersecurity-101/blob/efaf6d37746487714438539a1e566a8cbecde91a/assets/fundamentals.md)
+  * [setting up local ai](https://github.com/thequietlife/ai/blob/283ce2f8a04e65ee2c641a209d0b3f26db983209/set.md)
