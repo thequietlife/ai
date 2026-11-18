@@ -7,7 +7,7 @@
 field notes:
 
 
-  * [setting up a local ai](https://github.com/thequietlife/ai/blob/283ce2f8a04e65ee2c641a209d0b3f26db983209/set.md)
+  * [setting up a local ai](https://github.com/thequietlife/ai/blob/2ded47a193c756b848d9a20c3a697e21246781bb/set.md)
 
 
 
