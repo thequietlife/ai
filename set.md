@@ -3,7 +3,7 @@
 * hardware: a woeful 8GB Lenovo ThinkCentre m910q
 * starting with ollama.app
 
-* I'm going to work with the 8GB as it seems like a good starting point to try out Ollama - [Marian Montagnino](https://youtu.be/H8L1lM7lBHA)
+* I'm going to work with the 8GB as it seems like a good starting point to try out Ollama - see [Marian Montagnino](https://youtu.be/H8L1lM7lBHA)
 
 
 
